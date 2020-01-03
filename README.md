@@ -1,9 +1,7 @@
 # AndroidBluetoothLibrary
 
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/douglasjunior/AndroidBluetoothLibrary/blob/master/LICENSE)
-[![Release](https://jitpack.io/v/douglasjunior/AndroidBluetoothLibrary.svg)](https://jitpack.io/#douglasjunior/AndroidBluetoothLibrary)
-[![Downloads](https://jitpack.io/v/douglasjunior/AndroidBluetoothLibrary/month.svg)](#download)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Bluetooth%20Library-yellow.svg?style=flat)](http://android-arsenal.com/details/1/5821)
+[![Release](https://jitpack.io/v/GPla/AndroidBluetoothLibrary.svg)](https://jitpack.io/#GPla/AndroidBluetoothLibrary)
 
 A Library for easy implementation of Serial Bluetooth Classic and Low Energy on Android. 💙
 
