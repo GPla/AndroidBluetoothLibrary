@@ -12,6 +12,11 @@ A Library for easy implementation of Serial Bluetooth Classic and Low Energy on 
 
 *Looking for `React Native` version? See also [react-native-easybluetooth-classic](https://github.com/douglasjunior/react-native-easybluetooth-classic) and [react-native-easybluetooth-le](https://github.com/douglasjunior/react-native-easybluetooth-le)*
 
+## Extension
+
+Added bluetooth server socket. On scan start a new server socket is opened 
+and the device is discoverable.
+
 ## Use
 
 ### Configuration
