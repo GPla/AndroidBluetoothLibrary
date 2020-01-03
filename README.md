@@ -14,8 +14,10 @@ A Library for easy implementation of Serial Bluetooth Classic and Low Energy on 
 
 ## Extension
 
-Added bluetooth server socket. On scan start a new server socket is opened 
-and the device is discoverable.
+BluetoothClassicExtendedService extends the classic service with the following features: 
+
+- Opens bluetooth server socket to accept connections.
+- Makes devices discoverable  
 
 ## Use
 
